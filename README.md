@@ -1,4 +1,4 @@
-### Hi there 👋 My name is [Allie](alliemnguyen.github.io). 
+### Hi there 👋 My name is [Allie](https://alliemnguyen.github.io/).
 
 <!--
 **alliemnguyen/alliemnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
